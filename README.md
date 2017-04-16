@@ -8,4 +8,4 @@ For solving this problem we used 2 resources:
 1. A paper: https://www.schneier.com/academic/paperfiles/paper-cmea.pdf
 2. Powerpoint slides: http://www.cs.sjsu.edu/~stamp/crypto/PowerPoint_PDF/11_CMEA.pdf
 
-I think using these 2 resources are good enough to solve this problem. 
+I think these two resources are good enough to solve this problem. 
