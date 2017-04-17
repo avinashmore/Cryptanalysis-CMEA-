@@ -1,0 +1,3 @@
+To cryptanalyze CMEA using know plaintext attack, we spilt the it in two phases. 
+1.	Phase one:  To determine correct value of T (0)
+2.	Phase two:  Backtracking and Meet-in-the-Middle
