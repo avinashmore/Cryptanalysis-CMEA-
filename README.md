@@ -9,3 +9,10 @@ For solving this problem we used 2 resources:
 2. Powerpoint slides: http://www.cs.sjsu.edu/~stamp/crypto/PowerPoint_PDF/11_CMEA.pdf
 
 I think these two resources are good enough to solve this problem. 
+
+
+How to run this code?
+
+$ g++ cmeakpa.cpp
+
+$ ./a.out cmea1InitPlain.txt cmea1Cipher.txt
